@@ -1,24 +1,24 @@
 # Samples
 
 ## Drum Sounds
-* :drum_heavy_kick
-* :drum_tom_mid_soft
-* :drum_tom_mid_hard
-* :drum_tom_lo_soft
-* :drum_tom_lo_hard
-* :drum_tom_hi_soft
-* :drum_tom_hi_hard
-* :drum_splash_soft
-* :drum_splash_hard
-* :drum_snare_soft
-* :drum_snare_hard
-* :drum_cymbal_soft
+* :drum_bass_hard
+* :drum_bass_soft
+* :drum_cymbal_closed
 * :drum_cymbal_hard
 * :drum_cymbal_open
-* :drum_cymbal_closed
 * :drum_cymbal_pedal
-* :drum_bass_soft
-* :drum_bass_hard
+* :drum_cymbal_soft
+* :drum_heavy_kick
+* :drum_snare_hard
+* :drum_snare_soft
+* :drum_splash_hard
+* :drum_splash_soft
+* :drum_tom_hi_hard
+* :drum_tom_hi_soft
+* :drum_tom_lo_hard
+* :drum_tom_lo_soft
+* :drum_tom_mid_hard
+* :drum_tom_mid_soft
 
 
 ## Electric Sounds
@@ -88,6 +88,7 @@
 * :bass_voxy_c
 * :bass_voxy_hit_c
 * :bass_dnb_f
+* :bass_trance_c
 
 
 ## Snare Drums
@@ -116,8 +117,6 @@
 * :loop_compus
 * :loop_amen
 * :loop_amen_full
+* :loop_breakbeat
 * :loop_garzul
 * :loop_mika
-* :loop_breakbeat
-
-
